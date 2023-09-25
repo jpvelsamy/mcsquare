@@ -1,0 +1,82 @@
+{
+  "images": [
+    {
+      "width": 1700,
+      "height": 2200,
+      "id": 0,
+      "file_name": "1201793b-Wyatt_Hutchinson_0.jpg"
+    },
+    {
+      "width": 1700,
+      "height": 2200,
+      "id": 1,
+      "file_name": "513bd6c0-Todd_Clark_0.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Checkbox"
+    },
+    {
+      "id": 1,
+      "name": "Exigent"
+    },
+    {
+      "id": 2,
+      "name": "Expedite"
+    },
+    {
+      "id": 3,
+      "name": "Text"
+    },
+    {
+      "id": 4,
+      "name": "Urgency checkbox"
+    },
+    {
+      "id": 5,
+      "name": "Urgent"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 1,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        112.61904761904763,
+        777.8571428571429,
+        217.3809523809524,
+        89.04761904761898
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 19357.256235827652
+    },
+    {
+      "id": 1,
+      "image_id": 2,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        749.047619047619,
+        908.8095238095239,
+        282.85714285714283,
+        2.619047619047649
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 740.8163265306206
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-07-28 18:46:01.006112"
+  }
+}
